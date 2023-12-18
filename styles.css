@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+body {
+    font-family: 'Muli', sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.cards {
+    display: flex;
+    width: 90vw;
+}
+
+#card-one {
+    background-image: url('https://images.unsplash.com/photo-1558979158-65a1eaa08691?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+}
